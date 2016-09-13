@@ -1,0 +1,7 @@
+-R . NsatzTest
+Setup.v
+SetupAlt.v
+Nsatz0.v
+NsatzAlt0.v
+Nsatz1.v
+NsatzAlt1.v
